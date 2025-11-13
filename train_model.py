@@ -95,7 +95,7 @@ for col in cat_features:
             test,
             col,
             slicevalue,
-            cat_features,
+            categorical_features=cat_features,
             label='salary',
             encoder=encoder,
             lb=lb,
