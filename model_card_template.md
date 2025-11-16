@@ -22,6 +22,7 @@ The model was evaluated using F1 score. The value is 0.6790.
 Precision: 0.7362 | Recall: 0.6300 | F1: 0.6790
 
 ## Ethical Considerations
-
+This model is based on 1994 census data, which reflects the societal norms of the time. As such, the data reflects systematic bias.
 
 ## Caveats and Recommendations
+This model is not intended for production use. Further research into the data bias is hihgly recommended.
